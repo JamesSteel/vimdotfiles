@@ -11,6 +11,7 @@ nnoremap k gk
 set number
 call plug#begin("~/.vim/plugged")
 Plug 'tpope/vim-repeat'
+Plug 'scrooloose/nerdtree'
 Plug 'svermeulen/vim-easyclip'
 call plug#end()
 
